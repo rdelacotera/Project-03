@@ -26,4 +26,4 @@ A formal closing out and proofread of the entire document was done before submis
 - Git
 
 ### Viewing Instructions
-My webpage link is https://github.com/rdelacotera/Project-03
+My webpage link is https://rdelacotera.github.io/Project-03/
