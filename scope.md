@@ -3,7 +3,7 @@
 ## Student: Rodrigo Delacotera
 ## Professor: Cheri Whalen, M.S. Instructor, CMPA 3301
 
-## Project Purpose test
+## Project Purpose
 To design and develop a professional portfolio website promoting my business using HTML and CSS. This website will fulfill requirements for Project 03 for my CMPA-3301 course at Texas Tech University, showcasing the technical skills I have learned on web development and project management. The website will provide visitors with useful information about my background, my business and its location through an embedded Google Map. Additionally, it will provide useful information regarding common medical problems like diabetes and hypertension.
 
 ## Description
