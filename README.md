@@ -26,5 +26,8 @@ A formal closing out and proofread of the entire document was done before submis
 - Git
 
 ### Viewing Instructions
-**Live Website**  https://rdelacotera.github.io/Project-03/
-**Project Documents** [docs](docs/)
+**Live Website**  
+https://rdelacotera.github.io/Project-03/
+
+**Project Documents** 
+[docs](docs/)
