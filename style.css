@@ -1,11 +1,12 @@
 body {
     background-color: #c9e7f9;
-    padding:20px;
-    margin:20px;
+    padding:10px;
+    margin:8px;
     border:#2a3095 3px solid;
     outline:#a82128 2px solid;
     outline-offset: 6px;
     box-sizing: border-box;
+    overflow-x: hidden;
 }
 .welcome-section {
    text-align: center; 
@@ -73,7 +74,7 @@ h4 {
     font-size:24px;
 }
 ul {
-    width: 600px;
+    width: auto;
     margin: 0 auto;
     text-align: left;
     color: #2a3095;
@@ -191,6 +192,7 @@ nav a.active {
 }
 .info-container {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: stretch;
     gap: 40px;
