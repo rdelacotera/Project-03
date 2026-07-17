@@ -31,7 +31,7 @@ The final GitHub repository will include all required HTML, CSS and Markdown fil
     - Budget: No expenses are required. Tools that will be used including Visual Studio Code and GitHub Pages are free.
 
 ### Reference
-    - Kogon, K., & Blakemore, S. (2024). *Project Management for The Unofficial Project Manager* (Updated and Revised ed.). FranklinCovey.
+Kogon, K., & Blakemore, S. (2024). *Project Management for The Unofficial Project Manager* (Updated and Revised ed.). FranklinCovey.
 
 ## Exclusions 
 The following features are out of scope:
